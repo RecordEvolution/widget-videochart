@@ -1,0 +1,1 @@
+{"version":3,"file":"re-video-chart.js","sourceRoot":"","sources":["../../src/re-video-chart.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,mBAAmB,CAAC;AAEjD,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,gBAAgB,EAAE,YAAY,CAAC,CAAC","sourcesContent":["import { ReVideoChart } from './ReVideoChart.js';\n\nwindow.customElements.define('re-video-chart', ReVideoChart);\n"]}
