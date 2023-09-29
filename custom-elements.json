@@ -220,7 +220,7 @@
     },
     {
       "kind": "javascript-module",
-      "path": "dist/src/re-video-chart.js",
+      "path": "dist/src/widget-videochart.js",
       "declarations": [],
       "exports": [
         {
