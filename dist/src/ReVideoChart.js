@@ -27,7 +27,7 @@ ReVideoChart.styles = css `
     :host {
       display: block;
       padding: 25px;
-      color: var(--re-video-chart-text-color, #000);
+      color: var(--widget-videochart-text-color, #000);
     }
   `;
 //# sourceMappingURL=ReVideoChart.js.map
